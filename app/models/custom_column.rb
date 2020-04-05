@@ -1,0 +1,2 @@
+class CustomColumn < ApplicationRecord
+end
